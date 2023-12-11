@@ -1,0 +1,289 @@
+{
+  "kurslar": [
+    {
+      "id": 1,
+      "title": "SEO",
+      "description": "Sayfanıza daha fazla erişim fırsatı",
+      "logo": "https://dinamikwebtasarim.com/wp-content/uploads/2021/06/Seo-Nedir-Ne-Ise-Yarar.jpg",
+      "degerlendirme": "2.3/5",
+      "ozet": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum atque impedit reprehenderit, expedita laboriosam ipsa dolore nobis inventore earum voluptate recusandae voluptatum?",
+      "kayitli_kisi_sayisi": 23,
+      "egitmen": "Kodusta",
+      "icerik": [
+        "Giriş: SEO Nedir?",
+        "Anahtar Kelimeler ve SEO",
+        "Sayfa İçi ve Sayfa Dışı SEO",
+        "SEO'da Güncel Trendler",
+        "Backlink Stratejileri",
+        "SEO Araçları ve Analiz",
+        "Local SEO İpuçları"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Web Development",
+      "description": "Modern web geliştirme teknikleri",
+      "logo": "https://miro.medium.com/v2/resize:fit:1200/1*V-Jp13LvtVc2IiY2fp4qYw.jpeg",
+      "degerlendirme": "4.5/5",
+      "ozet": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum atque impedit reprehenderit, expedita laboriosam ipsa dolore nobis inventore earum voluptate recusandae voluptatum?",
+      "kayitli_kisi_sayisi": 120,
+      "egitmen": "webdevmaster",
+      "icerik": [
+        "HTML ve CSS Temelleri",
+        "JavaScript Programlama",
+        "React.js ile Web Geliştirme",
+        "Node.js ve Express.js",
+        "RESTful API Tasarımı",
+        "Web Güvenliği"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Data Science",
+      "description": "Veri analizi ve bilim",
+      "logo": "https://d1m75rqqgidzqn.cloudfront.net/wp-data/2019/09/11134058/What-is-data-science-2.jpg",
+      "degerlendirme": "3.8/5",
+      "ozet": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum atque impedit reprehenderit, expedita laboriosam ipsa dolore nobis inventore earum voluptate recusandae voluptatum?",
+      "kayitli_kisi_sayisi": 89,
+      "egitmen": "datasciencemaster",
+      "icerik": [
+        "Veri Madenciliği Temelleri",
+        "Python ile Veri Analizi",
+        "Makine Öğrenimi Uygulamaları",
+        "Derin Öğrenme (Deep Learning)",
+        "Büyük Veri Analitiği",
+        "Veri Görselleştirme Araçları"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Mobile App Development",
+      "description": "Mobil uygulama geliştirme",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMS4uI8u5ATm-RjPUewrPf2RVls1v3DpvKpg&usqp=CAU",
+      "degerlendirme": "4.0/5",
+      "ozet": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum atque impedit reprehenderit, expedita laboriosam ipsa dolore nobis inventore earum voluptate recusandae voluptatum?",
+      "kayitli_kisi_sayisi": 75,
+      "egitmen": "appdevpro",
+      "icerik": [
+        "Mobil Uygulama Ekosistemi",
+        "Flutter ile Cross-Platform Geliştirme",
+        "iOS Uygulama Geliştirme (Swift)",
+        "Android Uygulama Geliştirme (Kotlin)"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "UI/UX Design",
+      "description": "Kullanıcı arayüzü ve deneyimi tasarımı",
+      "logo": "https://cremicro.com/wp-content/webp-express/webp-images/uploads/2020/10/ux-2-1024x682.jpg.webp",
+      "degerlendirme": "4.2/5",
+      "ozet": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum atque impedit reprehenderit, expedita laboriosam ipsa dolore nobis inventore earum voluptate recusandae voluptatum?",
+      "kayitli_kisi_sayisi": 55,
+      "egitmen": "uxdesignexpert",
+      "icerik": [
+        "Kullanıcı Merkezli Tasarım (UCD)",
+        "Wireframing ve Prototip Oluşturma",
+        "Renk Teorisi ve Uygulamaları",
+        "UI/UX ve Mobil Tasarım Trendleri"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Digital Marketing",
+      "description": "Dijital pazarlama stratejileri",
+      "logo": "https://www.springboard.com/blog/wp-content/uploads/2022/06/what-is-digital-marketing.png",
+      "degerlendirme": "3.9/5",
+      "ozet": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum atque impedit reprehenderit, expedita laboriosam ipsa dolore nobis inventore earum voluptate recusandae voluptatum?",
+      "kayitli_kisi_sayisi": 43,
+      "egitmen": "digitalmarketer",
+      "icerik": [
+        "SEO ve SEM Temelleri",
+        "Sosyal Medya Pazarlaması",
+        "E-Posta Pazarlaması",
+        "Dijital Reklam Stratejileri"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Cloud Computing",
+      "description": "Bulut bilişim teknolojileri",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cloud_computing.svg/1200px-Cloud_computing.svg.png",
+      "degerlendirme": "4.1/5",
+      "ozet": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum atque impedit reprehenderit, expedita laboriosam ipsa dolore nobis inventore earum voluptate recusandae voluptatum?",
+      "kayitli_kisi_sayisi": 65,
+      "egitmen": "cloudexplore",
+      "icerik": [
+        "Bulut Bilişim Modelleri",
+        "AWS Temelleri",
+        "Microsoft Azure Hizmetleri",
+        "Google Cloud Platform İncelemesi"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Cybersecurity",
+      "description": "Güvenlik ve siber tehditler",
+      "logo": "https://cdn.sanity.io/images/tlr8oxjg/production/bdb77d61d1ef7dc459bf17ae010658476c00d420-1456x816.png?w=3840&q=80&fit=clip&auto=format",
+      "degerlendirme": "4.4/5",
+      "ozet": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum atque impedit reprehenderit, expedita laboriosam ipsa dolore nobis inventore earum voluptate recusandae voluptatum?",
+      "kayitli_kisi_sayisi": 80,
+      "egitmen": "cybersecpro",
+      "icerik": [
+        "Bilgi Güvenliği Temelleri",
+        "Ağ Güvenliği",
+        "Web Uygulama Güvenliği",
+        "Siber Güvenlikte Yenilikçi Yaklaşımlar"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Web tasarım",
+      "description": "tasarım için gereken bir kurs",
+      "logo": "https://images.squarespace-cdn.com/content/v1/540efafce4b02e0dc20adb52/1528457083007-Z9LPX5Z1JOA0C3WTY7NT/study-min.jpg?format=1000w",
+      "egitmen": "Ahmet Candan",
+      "icerik": [
+        "giriş",
+        "gelişme",
+        "sonuç"
+      ]
+    }
+  ],
+  "ogrenciler": [
+    {
+      "id": 0,
+      "ad": "Yasin Çağrı",
+      "soyad": "Solmaz",
+      "mezun_oldugu_bolum": "Bilgisayar Mühendisliği",
+      "yas": 24,
+      "dogum_tarihi": "1999-05-3",
+      "uyelik_tarihi": "2022-01-01",
+      "mail_adresi": "yasin.cagri@example.com",
+      "password": "123",
+      "resminin_pathi": "yasin",
+      "kurslar": [
+        {
+          "kurs_id": 1,
+          "kurs_adi": "SEO",
+          "ilerleme": 75
+        },
+        {
+          "kurs_id": 3,
+          "kurs_adi": "Data Science",
+          "ilerleme": 50
+        },
+        {
+          "kurs_id": 5,
+          "kurs_adi": "UI/UX Design",
+          "ilerleme": 90
+        },
+        {
+          "kurs_id": 6,
+          "kurs_adi": "Digital Marketing",
+          "ilerleme": 100
+        },
+        {
+          "kurs_id": 7,
+          "kurs_adi": "Cloud Computing",
+          "ilerleme": 50
+        },
+        {
+          "kurs_adi": "Web Development",
+          "kurs_id": 2,
+          "ilerleme": 0
+        },
+        {
+          "kurs_adi": "Cybersecurity",
+          "kurs_id": 8,
+          "ilerleme": 0
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "ad": "İrem Nisa",
+      "soyad": "Gündoğdu",
+      "mezun_oldugu_bolum": "İşletme",
+      "yas": 24,
+      "dogum_tarihi": "1999-08-22",
+      "uyelik_tarihi": "2022-02-15",
+      "mail_adresi": "irem.nisa@example.com",
+      "password": "456",
+      "resminin_pathi": "/resimler/irem_nisa.jpg",
+      "kurslar": [
+        {
+          "kurs_id": 2,
+          "kurs_adi": "Web Development",
+          "ilerleme": 30
+        },
+        {
+          "kurs_id": 4,
+          "kurs_adi": "Mobile App Development",
+          "ilerleme": 20
+        },
+        {
+          "kurs_id": 7,
+          "kurs_adi": "Cloud Computing",
+          "ilerleme": 40
+        }
+      ]
+    },
+    {
+      "id": 999,
+      "ad": "Selahattin Usta",
+      "soyad": "",
+      "mezun_oldugu_bolum": "",
+      "yas": 0,
+      "dogum_tarihi": "",
+      "uyelik_tarihi": "",
+      "mail_adresi": "admin@example.com",
+      "resminin_pathi": "",
+      "kurslar": []
+    },
+    {
+      "id": 2,
+      "ad": "yasin",
+      "soyad": "solmaz",
+      "yas": "24",
+      "mezun_oldugu_bolum": "ehm",
+      "dogum_tarihi": "2002-03-23",
+      "uyelik_tarihi": "2023-12-10",
+      "mail_adresi": "yasin@gmail.com",
+      "password": "123456",
+      "kurslar": [
+        {
+          "kurs_adi": "UI/UX Design",
+          "kurs_id": 5,
+          "ilerleme": 0
+        },
+        {
+          "kurs_adi": "Digital Marketing",
+          "kurs_id": 6,
+          "ilerleme": 0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "ad": "Kemal",
+      "soyad": "Ademi",
+      "yas": "23",
+      "mezun_oldugu_bolum": "Pazarlama",
+      "dogum_tarihi": "3243-04-23",
+      "uyelik_tarihi": "2023-12-07",
+      "mail_adresi": "kemal@gmail.com",
+      "password": "123",
+      "kurslar": [
+        {
+          "kurs_adi": "Web Development",
+          "kurs_id": 2,
+          "ilerleme": 0
+        },
+        {
+          "kurs_adi": "Digital Marketing",
+          "kurs_id": 6,
+          "ilerleme": 0
+        }
+      ]
+    }
+  ]
+}
